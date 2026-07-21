@@ -64,7 +64,7 @@ if seccion == "Home":
     col1, col2 = st.columns([1, 2])
     with col1:
         st.markdown("### 👤 Datos del estudiante")
-        st.write("**Nombre:** [Tu nombre completo]")
+        st.write("**Nombre:** [Cesar-Diaz-Marina]")
         st.write("**Módulo:** Python Fundamentals")
         st.write("**Año:** 2026")
     with col2:
