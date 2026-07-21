@@ -4,8 +4,8 @@ app.py
 Proyecto Aplicado en Streamlit - Fundamentos de Programación
 Especialización en Python for Analytics - Módulo 1: Python Fundamentals
 
-Autor: [ESCRIBE AQUÍ TU NOMBRE COMPLETO]
-Fecha: [ESCRIBE AQUÍ LA FECHA DE ENTREGA]
+Autor: [Cesar-Diaz-Marina]
+Fecha: [23/07/2026]
 """
 
 import streamlit as st

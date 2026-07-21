@@ -4,9 +4,9 @@ Aplicación interactiva en **Streamlit** desarrollada como Proyecto Aplicado del
 Módulo 1 – Python Fundamentals (Especialización en Python for Analytics).
 
 ## 👤 Autor
-- **Nombre:** [Tu nombre completo]
+- **Nombre:** [Cesar-Diaz-Marina]
 - **Módulo:** Python Fundamentals
-- **Fecha de entrega:** [dd/mm/aaaa]
+- **Fecha de entrega:** [23/07/2026]
 
 ## 📌 Descripción
 La aplicación integra los conceptos vistos en el módulo: variables,
